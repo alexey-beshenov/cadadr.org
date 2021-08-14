@@ -17,7 +17,7 @@ For some of my Beamer source code, see
 * **Zeta-values from Euler to Weil-étale cohomology**,
   Leiden, May 15, 2017:
   a small talk for the general audience about special values of zeta-functions<br>
-  [PDF slides](http://cadadr.org/these/2017-05-15-slides-handout.pdf)
+  [PDF slides](/these/2017-05-15-slides-handout.pdf)
 
 * **Zeta-values of arithmetic schemes at negative integers and Weil-étale cohomology**,
   Leiden, Deceber 4, 2017:
@@ -59,4 +59,4 @@ For some of my Beamer source code, see
   [V Encuentro Conjunto de la Real Sociedad Matemática Española y la Sociedad Matemática Mexicana](https://rsmeysmm.eventos.cimat.mx/)
   (virtual)<br>
   [Transparencias en PDF](2021-06-15-rsme-smm-handout.pdf),
-  [charla en YouTube](https://youtube.com/watch?v=FYiq___H548)
+  [charla en YouTube](https://www.youtube.com/watch?v=FYiq___H548)

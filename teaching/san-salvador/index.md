@@ -19,7 +19,7 @@ El cógido LaTeX para algunos de los apuntes de abajo
 [se encuentra en GitHub](https://github.com/alexey-beshenov/notas-san-salvador).
 
 No duden en contactarme por cualquier pregunta sobre mis clases y los textos de
-abajo: [cadadr@gmail.com](cadadr@gmail.com).
+abajo: [cadadr@gmail.com](mailto:cadadr@gmail.com).
 
 
 ## Agradecimientos

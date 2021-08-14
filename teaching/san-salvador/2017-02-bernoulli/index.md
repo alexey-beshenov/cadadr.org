@@ -21,8 +21,6 @@ En este minicurso vamos a explorar las diversas definiciones de los números de 
 
 Mis apuntes, un poco más detallados de lo que hicimos en clase: [bernoulli.pdf](bernoulli.pdf) (50&#x00a0;pp.)
 
-(<a href="https://github.com/alexey-beshenov/notas-san-salvador/tree/master/bernoulli" class="git-link">El código fuente LaTeX</a>)
-
 Algunos resultados están ilustrados con cálculos en el programa PARI/GP. El lector puede descargarlo de la página [http://pari.math.u-bordeaux.fr/](http://pari.math.u-bordeaux.fr/)
 
 Apuntes diarios de la clase:

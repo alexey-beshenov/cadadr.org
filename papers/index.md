@@ -10,7 +10,7 @@ Any feedback is welcome!
 ## PhD thesis
 
 Here is the original manuscript of my PhD thesis, advised by
-[Baptiste Morin](http://www.math.u-bordeaux.fr/~bmorin/) (Université de Bordeaux)
+[Baptiste Morin](https://www.math.u-bordeaux.fr/~bmorin/) (Université de Bordeaux)
 and
 [Bas Edixhoven](http://www.math.leidenuniv.nl/~edix/) (Universiteit Leiden),
 defended in Leiden on December 10, 2018.

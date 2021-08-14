@@ -34,45 +34,47 @@ Here are some links that I have collected mostly for myself.
 
 * [researchseminars.org](https://researchseminars.org/)
 * [Séminaire Théorie des Nombres de Bordeaux](https://www.math.u-bordeaux.fr/imb/seminaire-theorie-des-nombres)
-* [Intercity Number Theory Seminar](http://www.math.leidenuniv.nl/~desmit/ic/)
+* [Intercity Number Theory Seminar](http://pub.math.leidenuniv.nl/~brightmj/ic/current.html)
 * [Algebra, geometry and number theory seminar in Leiden](http://pub.math.leidenuniv.nl/~strengtc/algseminar/)
 * [Leiden colloquium](http://pub.math.leidenuniv.nl/~strengtc/colloquium/)
 * Libraries:
   [Bordeaux](https://bmi.math.u-bordeaux.fr/),
   [Leiden](http://www.library.universiteitleiden.nl/),
   [Guanajuato](https://www.cimat.mx/es/biblioteca-0)
-* [Societé Mathématique de France](http://smf.emath.fr/)
+* [Societé Mathématique de France](https://smf.emath.fr/)
 * [Numdam](http://www.numdam.org/)
 * [Sociedad Matemática Mexicana](https://www.smm.org.mx/)
 * [Grothedieck Circle](http://grothendieckcircle.org/);
   [Archives Grothendieck à l’Université de Montpellier](https://grothendieck.umontpellier.fr/)
-* [The Stacks project](http://stacks.math.columbia.edu/)
-* [SGA 1](http://arxiv.org/abs/math/0206203),
-  [SGA 2](http://arxiv.org/abs/math/0511279),
+* [The Stacks project](https://stacks.math.columbia.edu/)
+* [SGA 1](https://arxiv.org/abs/math/0206203),
+  [SGA 2](https://arxiv.org/abs/math/0511279),
   [SGA 3](https://webusers.imj-prg.fr/~patrick.polo/SGA3/),
   [SGA 4](http://fabrice.orgogozo.perso.math.cnrs.fr/SGA4/)
 * [arXiv.org](https://arxiv.org/)
-* [nLab](http://ncatlab.org/)
-* [LMFDB](http://lmfdb.org/)
+* [nLab](https://ncatlab.org/)
+* [LMFDB](https://www.lmfdb.org/)
 * [sci-hub.se](https://sci-hub.se/),
-  [gen.lib.rus.ec](http://gen.lib.rus.ec/)
+  [libgen.rs](http://libgen.rs/),
+  [libgen.is](http://libgen.is/),
+  [libgen.st](http://libgen.st/).
 
 
 ## Some lecture notes online
 
 * [Various notes from Leiden](http://websites.math.leidenuniv.nl/algebra/)
-* [J.S. Milne](http://jmilne.org/math/CourseNotes/)
+* [J.S. Milne](https://www.jmilne.org/math/CourseNotes/)
 * [Daniel Murfet](http://therisingsea.org/)
-* [Keith Conrad](http://www.math.uconn.edu/~kconrad/blurbs/)
-* [Sasha Anan’in and Carlos H. Grossi](http://conteudo.icmc.usp.br/pessoas/grossi/) (em português)
+* [Keith Conrad](https://kconrad.math.uconn.edu/blurbs/)
+* [Sasha Anan’in and Carlos H. Grossi](https://sites.icmc.usp.br/grossi/) (em português)
 * [“Foundations Of Algebraic Geometry” by Ravi Vakil](http://math.stanford.edu/~vakil/216blog/)
 * [Andreas Gathmann](https://www.mathematik.uni-kl.de/~gathmann/en/notes.php)
 * [Grimoire Project by Lorenzo Ramero](http://math.univ-lille1.fr/~ramero/teaching.html) (en français)
 * [An introduction to Algebraic Geometry by Dmitry Kaledin](http://www.mi.ras.ru/~kaledin/noc/) (по-русски)
 * [Alexander Kuznetsov](http://www.mi.ras.ru/~akuznet/) (по-русски)
 * [Pete  L. Clark](http://alpha.math.uga.edu/~pete/expositions2012.html)
-* [Paul Garrett](http://www-users.math.umn.edu/~garrett/)
-* [Лекториум](http://lektorium.tv/) (по-русски)
+* [Paul Garrett](https://www-users.math.umn.edu/~garrett/)
+* [Лекториум](https://www.lektorium.tv/) (по-русски)
 * [Minicurso de Geometría Algebraica Derivada](https://www.matem.unam.mx/~omar/geoalgder.html)
   impartido por Omar Antolín Camarena
 
@@ -83,10 +85,10 @@ Here are some links that I have collected mostly for myself.
   the GNU/Linux distribution I’ve been using most of the time
 * [PARI/GP](http://pari.math.u-bordeaux.fr/):
   a computer algebra system with emphasis on algebraic number theory
-* [Macaulay2](http://macaulay2.com/):
+* [Macaulay2](https://faculty.math.illinois.edu/Macaulay2/):
   a computer algebra system with emphasis on commutative algebra and algebraic
   geometry
-* [GAP](http://www.gap-system.org/):
+* [GAP](https://www.gap-system.org/):
   a computer algebra system with emphasis on group theory
 * [Emacs](https://www.gnu.org/software/emacs/):
   the program I’m using 99% of the time, also while writing this right now
@@ -98,11 +100,11 @@ Here are some links that I have collected mostly for myself.
 
 * [cnrtl.fr](https://www.cnrtl.fr/)
 * [Lexilogos](https://www.lexilogos.com/)
-* [Real Academia Española](http://rae.es/)
+* [Real Academia Española](https://www.rae.es/)
 * [Gallica](https://gallica.bnf.fr/)
 * [Larousse](https://www.larousse.fr/)
 * [Dictionnaire de l’Académie française](https://www.dictionnaire-academie.fr/)
-* [wordreference.com](http://wordreference.com/)
+* [wordreference.com](https://www.wordreference.com/)
 
 
 ## Politics and philosophy

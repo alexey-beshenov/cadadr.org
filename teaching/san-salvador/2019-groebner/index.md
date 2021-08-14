@@ -15,7 +15,7 @@ y luego algunas facetas computacionales de geometría algebraica:
 descomposiciones primarias, dimensión de Krull y series de Hilbert.
 
 El enfoque es más práctico y se dan varios ejemplos de cálculos en el programa
-[Macaulay2](http://macaulay2.com/).
+[Macaulay2](https://faculty.math.illinois.edu/Macaulay2/).
 
 ## Horario
 

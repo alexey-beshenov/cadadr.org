@@ -76,16 +76,16 @@ esquema, así que se trata de una <em>invitación</em> a la teoría de esquemas.
 ## Referencias
 
 * [G-W] Ulrich Görtz, Torsten Wedhorn,
-  [Algebraic Geometry I: Schemes](http://doi.org/10.1007/978-3-8348-9722-0)
+  [Algebraic Geometry I: Schemes](https://doi.org/10.1007/978-3-8348-9722-0)
 
 * [E-H] David Eisenbud, Joe Harris,
-  [The Geometry of Schemes](http://doi.org/10.1007/b97680)
+  [The Geometry of Schemes](https://doi.org/10.1007/b97680)
 
 * [Man] Yu.I. Manin,
-  [Introduction to the Theory of Schemes](http://doi.org/10.1007/978-3-319-74316-5)
+  [Introduction to the Theory of Schemes](https://doi.org/10.1007/978-3-319-74316-5)
 
 * [Sha] I.R. Shafarevich,
-  [Basic Algebraic Geometry 2: Schemes and Complex Manifolds](http://doi.org/10.1007/978-3-642-57956-1)
+  [Basic Algebraic Geometry 2: Schemes and Complex Manifolds](https://doi.org/10.1007/978-3-642-57956-1)
 
 
 ## Contacto

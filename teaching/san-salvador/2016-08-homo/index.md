@@ -168,7 +168,7 @@ sobre el tema:
   — otro buen libro, escrito con más detalles y atención, pero no tan
   enciclopédico como Weibel.<br>
   Errata:
-  <a href="http://www.math.uiuc.edu/~rotman/errhomalg.pdf" class="pdf-link">http://www.math.uiuc.edu/~rotman/errhomalg.pdf</a>
+  <a href="https://faculty.math.illinois.edu/~rotman/errhomalg.pdf" class="pdf-link">https://faculty.math.illinois.edu/~rotman/errhomalg.pdf</a>
 
 * P. J. Hilton and U. Stammbach, *A course in homological algebra*, Second ed.,
   Graduate Texts in Mathematics, vol. 4,
@@ -188,7 +188,7 @@ sobre el tema:
   Grothendieck estableció muchos métodos básicos y la terminología moderna;
   importante sobre todo para la cohomología de haces.
   Existe una traducción en inglés con correcciones y comentarios útiles:
-  <a href="http://www.math.mcgill.ca/barr/papers/gk.pdf" class="pdf-link">http://www.math.mcgill.ca/barr/papers/gk.pdf</a>
+  <a href="https://www.math.mcgill.ca/barr/papers/gk.pdf" class="pdf-link">https://www.math.mcgill.ca/barr/papers/gk.pdf</a>
 
 * Henri Cartan and Samuel Eilenberg, *Homological algebra*,
   Princeton University Press, Princeton, N. J., 1956<br>

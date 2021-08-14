@@ -42,12 +42,12 @@ No es la teoría de categorías como tal, así que le puse
 
 * Emily Riehl, *Category theory in context*,
   Aurora: Dover Modern Math Originals, Dover Publications, 2017.<br>
-  <a href="http://www.math.jhu.edu/~eriehl/context.pdf" class="pdf-link">http://www.math.jhu.edu/~eriehl/context.pdf</a>
+  <a href="https://math.jhu.edu/~eriehl/context.pdf" class="pdf-link">https://math.jhu.edu/~eriehl/context.pdf</a>
 
 * Tom Leinster, *Basic category theory*,
   Cambridge Studies in Advanced Mathematics, vol. 143,
   Cambridge University Press, Cambridge, 2014.<br>
-  [http://arxiv.org/abs/1612.09375](http://arxiv.org/abs/1612.09375)
+  [https://arxiv.org/abs/1612.09375](https://arxiv.org/abs/1612.09375)
 
 * Saunders Mac Lane, *Categories for the working mathematician*,
   second ed., Graduate Texts in Mathematics, vol. 5,

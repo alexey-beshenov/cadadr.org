@@ -11,7 +11,7 @@ published: 2019-07-06
 
 Esta página contiene materiales relacionados con el curso de álgebra en la
 Universidad de El Salvador que di en el primer semestre de 2019. Véase también
-el [curso de 2018](/san-salvador/2018-algebra/).
+el [curso de 2018](/teaching/san-salvador/2018-algebra/).
 
 
 ## Apuntes
@@ -353,8 +353,8 @@ Para algunos cálculos específicos (sobre todo factorización de polinomios) pu
 
 Además, para la teoría de grupos computacional sirve el programa
 [GAP](https://www.gap-system.org/), y para los cálculos con anillos conmutativos
-existe [Macaulay2](http://macaulay2.com/), pero no tendremos tiempo de
-explorarlos en clase.
+existe [Macaulay2](https://faculty.math.illinois.edu/Macaulay2/), pero no
+tendremos tiempo de explorarlos en clase.
 
 
 ## Lectura adicional
@@ -369,4 +369,4 @@ inglés.
 * E.B. Vinberg, *A course in algebra*, Graduate Studies in Mathematics, vol. 56,
   American Mathematical Society, 2003.
 
-* [Apuntes de Paul Garrett](http://www-users.math.umn.edu/~garrett/m/algebra/).
+* [Apuntes de Paul Garrett](https://www-users.cse.umn.edu/~garrett/m/algebra/).

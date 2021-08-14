@@ -80,7 +80,7 @@ La primera sesión tendrá lugar el martes 8 de octubre.
 * Neal Koblitz, *p-adic numbers, p-adic analysis, and zeta-functions*, second ed., Graduate Texts in Mathematics, vol. 58, Springer-Verlag, New York, 1984.<br>
 [https://link.springer.com/book/10.1007%2F978-1-4612-1112-9](https://link.springer.com/book/10.1007%2F978-1-4612-1112-9)
 * Jean-Pierre Serre, *Zeta and L functions, Arithmetical Algebraic Geometry* (Proc. Conf. Purdue Univ., 1963), Harper & Row, New York, 1965, pp. 82–92.<br>
-(Este artículo no se encuentra fácilmente, así que subí <a href="serre-zeta-and-L-1965.pdf" class="pdf-link">una copia</a>)
+(Este artículo no se encuentra fácilmente, así que subí <a href="/docs/Serre-zeta-and-L-1965.pdf" class="pdf-link">una copia</a>)
 * André Weil, *Numbers of solutions of equations in finite fields*, Bull. Amer. Math. Soc. 55 (1949), 497–508.<br>
 [https://www.projecteuclid.org/euclid.bams/1183513798](https://www.projecteuclid.org/euclid.bams/1183513798)
 * Emmanuel Kowalski, *Trying to understand Deligne's proof of the Weil conjectures (A tale in two parts)*.<br>

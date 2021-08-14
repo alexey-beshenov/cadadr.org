@@ -46,17 +46,17 @@ Here is some additional information:
   El&#xa0;Salvador by invitation of the Ministry of Education.
 
 * I obtained my PhD from
-  [University of Bordeaux](http://www.math.u-bordeaux.fr/) and
+  [University of Bordeaux](https://www.math.u-bordeaux.fr/) and
   [Leiden University](http://www.universiteitleiden.nl/en/science/mathematics/)
-  in 2018. I was supported by the [ALGANT](http://algant.eu/)-DOC scholarship of
+  in 2018. I was supported by the [ALGANT](https://algant.eu/)-DOC scholarship of
   the European Union.  My supervisor in Bordeaux was
-  [Baptiste Morin](http://www.math.u-bordeaux.fr/~bmorin/), and my supervisor
+  [Baptiste Morin](https://www.math.u-bordeaux.fr/~bmorin/), and my supervisor
   in Leiden was [Bas Edixhoven](http://www.math.leidenuniv.nl/~edix/).
 
 * I did my master studies in 2012–2014 in the
   [University of Milan](http://www.matematica.unimi.it/) and
-  [University of Bordeaux](http://www.math.u-bordeaux.fr/)
-  under the [ALGANT program](http://algant.eu/).
+  [University of Bordeaux](https://www.math.u-bordeaux.fr/)
+  under the [ALGANT program](https://algant.eu/).
   My advisor was Boas Erez.
 
 * Before that, I obtained my first M.Sc. in theoretical computer science in

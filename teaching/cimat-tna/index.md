@@ -253,7 +253,7 @@ clase y tareas del curso serán disponibles en esta página.
 Todos los invariantes que serán considerados en el curso se pueden calcular
 algorítmicamente. En particular, veremos ejemplos de cálculos en el programa
 [PARI/GP](https://pari.math.u-bordeaux.fr/) y la base de datos
-[LMFDB](https://lmfdb.org/). Todo el material teórico será acompañado
+[LMFDB](https://www.lmfdb.org/). Todo el material teórico será acompañado
 de problemas con pruebas y cálculos particulares.
 
 
@@ -276,7 +276,7 @@ puedo recomendar.
 * J.S. Milne,
   [*Algebraic Number Theory*](https://www.jmilne.org/math/CourseNotes/ant.html)
 
-* [Apuntes de Paul Garrett](http://www-users.math.umn.edu/~garrett/m/number_theory/)
+* [Apuntes de Paul Garrett](https://www-users.cse.umn.edu/~garrett/m/number_theory/)
 
 * [Varios apuntes de Keith Conrad](https://kconrad.math.uconn.edu/blurbs/)
 
@@ -324,7 +324,7 @@ puedo recomendar.
   y
   [Ubuntu](https://packages.ubuntu.com/search?keywords=pari-gp&amp;searchon=names&amp;suite=all&amp;section=all))
 
-* [LMFDB — The L-functions and Modular Forms Database](https://lmfdb.org/)
+* [LMFDB — The L-functions and Modular Forms Database](https://www.lmfdb.org/)
 
 
 ## Agradecimientos

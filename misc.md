@@ -12,13 +12,13 @@ saying that all possible mistakes are entirely mine. If you spot some typo or
 inaccuracy, don’t hesitate to contact me.
 
 * **p-adic numbers and Diophantine equations**,
-  lectures by <a href="http://www.math.u-bordeaux1.fr/~ybilu/">Yuri Bilu</a>,
+  lectures by <a href="https://www.math.u-bordeaux.fr/~ybilu/">Yuri Bilu</a>,
   Fall semester 2013; updated 2014-09-24.<br>
   <a href="/bordeaux-master/bilu-p-adic.pdf">PDF file</a>
   and
   <a href="https://github.com/alexey-beshenov/bilu-p-adic" class="git-link">LaTeX source</a>
 * **Heights**,
-  lectures by <a href="http://www.math.u-bordeaux1.fr/~fpazuki/">Fabien Pazuki</a>,
+  lectures by <a href="https://www.math.u-bordeaux.fr/~fpazuki/">Fabien Pazuki</a>,
   Spring semester 2014.<br>
   <a href="/bordeaux-master/pazuki-heights.pdf">PDF file</a>
   and

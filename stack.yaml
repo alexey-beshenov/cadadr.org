@@ -1,0 +1,6 @@
+resolver: lts-18.5
+packages:
+  - .
+extra-deps:
+  - hakyll-4.14.0.0
+  - pandoc-2.14.0.3

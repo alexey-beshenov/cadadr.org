@@ -1,6 +1,6 @@
 ---
 title: Some links
-published: 2020-08-29
+published: 2021-08-30
 ---
 
 Here are some links that I have collected mostly for myself.
@@ -18,16 +18,17 @@ Here are some links that I have collected mostly for myself.
 * Mentors:
     [Baptiste Morin](https://www.math.u-bordeaux.fr/~bmorin/),
     [Bas Edixhoven](https://www.math.leidenuniv.nl/~edix/)
-* Some friends with online presence:
-    [Max Mornev](https://people.math.ethz.ch/~mmornev/),
-    [Pavel Solomatin](http://psolomatin.com/),
-    [José Ibrahim Villanueva Gutiérrez](http://www.math.huji.ac.il/~jgutierrez/)
 * Some mathematicians on arXiv:
     [Matthias Flach](https://arxiv.org/search/?searchtype=author&amp;query=Flach%2C+M),
     [Thomas H. Geisser](https://arxiv.org/search/?searchtype=author&amp;query=Geisser%2C+T+H),
     [Stephen Lichtenbaum](https://arxiv.org/search/?searchtype=author&amp;query=Lichtenbaum%2C+S),
     [Baptiste Morin](https://arxiv.org/search/?searchtype=author&amp;query=Morin%2C+B),
     [Niranjan Ramachandran](https://arxiv.org/search/?searchtype=author&amp;query=Ramachandran%2C+N)
+* A few math friends with online presence:
+    [Max Mornev](https://people.math.ethz.ch/~mmornev/),
+    [Pavel Solomatin](http://psolomatin.com/),
+    [Carlos Vargas](https://carlos-vargas-math.github.io/),    
+    [José Ibrahim Villanueva Gutiérrez](http://www.math.huji.ac.il/~jgutierrez/)
 
 
 ## Mathematics

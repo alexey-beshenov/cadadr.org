@@ -38,7 +38,7 @@
 	<h1>$title$</h1>
       </header>
 
-      <main role="main">
+      <main role="main"$if(teaching)$ style="padding-top: 0"$endif$>
 	$if(teaching)$ $partial("templates/teaching.html")$ $endif$
 	$if(teaching)$<div id="main-side">$endif$
         $body$

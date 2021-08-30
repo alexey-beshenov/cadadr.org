@@ -231,6 +231,12 @@ main {
     background: #fff
 }
 
+.main-nopad { padding-top: 0 }
+
+@media (min-width: 640px) {
+    .main-nopad { padding-top: 2rem }
+}
+
 header {
     background-color: rgba(0,0,0,0.1);
     color: #fff;

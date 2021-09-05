@@ -26,7 +26,7 @@ números primos irregulares), y algunos resultados sobre la función zeta.
 ## Apuntes
 
 * Mis apuntes, un poco más detallados de lo que hicimos en clase:
-  [bernoulli.pdf](bernoulli.pdf) (50&#x00a0;pp.)
+  [bernoulli.pdf](bernoulli.pdf) (47&#x00a0;pp.)
 
 * <a href="https://github.com/alexey-beshenov/notas-san-salvador/tree/master/bernoulli" class="git-link">El código fuente LaTeX</a>
 

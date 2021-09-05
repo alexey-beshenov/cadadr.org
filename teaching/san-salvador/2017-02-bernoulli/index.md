@@ -7,21 +7,33 @@ published: 2017-03-07
 
 Los números de Bernoulli son ciertos números racionales<br>
 $$B_0 = 1, ~ B_1 = \frac{1}{2}, ~ B_2 = \frac{1}{6}, ~ B_3 = 0, ~ B_4 = -\frac{1}{30}, ~ B_5 = 0, ~ B_6 = \frac{1}{42}, ~ B_7 = 0, ~ B_8 = -\frac{1}{30}, ~ \ldots$$
-que surgen en varios contextos de la teoría de números, combinatoria y análisis. Por ejemplo, la suma de potencias de números naturales se expresa como un polinomio con coeficientes $B_i$:<br>
+que surgen en varios contextos de la teoría de números, combinatoria y
+análisis. Por ejemplo, la suma de potencias de números naturales se expresa como
+un polinomio con coeficientes $B_i$:<br>
 $$1^k + 2^k + \cdots + n^k = \frac{1}{k+1}\,\sum_{0 \le i \le k} {k+1\choose i}\,B_i\,n^{k+1-i}.$$ <br>
-También los números de Bernoulli aparecen en las series de Taylor de varias funciones:
+También los números de Bernoulli aparecen en las series de Taylor de varias
+funciones:
 $$\frac{t\,e^t}{e^t - 1} = \sum_{k \ge 0} B_k \, \frac{t^k}{k!}, \quad t\,\cot (t) = 1 + \sum_{k \ge 1} (-1)^k \, 2^{2k}\,\frac{B_{2k}}{(2k)!}\,t^{2k}, \quad \text{etc}.$$
 
-Los mismos números surgen cuando se consideran sumas de potencias infinitas, en los valores de la función zeta de Riemann:<br>
+Los mismos números surgen cuando se consideran sumas de potencias infinitas,
+en los valores de la función zeta de Riemann:
 $$\zeta (2k) = 1 + \frac{1}{2^{2k}} + \frac{1}{3^{2k}} + \frac{1}{4^{2k}} + \cdots = (-1)^{k+1} \, B_{2k}\,\frac{2^{2k-1}}{(2k)!}\,\pi^{2k}.$$
 
-En este minicurso vamos a explorar las diversas definiciones de los números de Bernoulli, sus propiedades aritméticas (teorema de Clausen–von Staudt, números primos irregulares), y algunos resultados sobre la función zeta.
+En este minicurso vamos a explorar las diversas definiciones de los números
+de Bernoulli, sus propiedades aritméticas (teorema de Clausen–von Staudt,
+números primos irregulares), y algunos resultados sobre la función zeta.
 
 ## Apuntes
 
-Mis apuntes, un poco más detallados de lo que hicimos en clase: [bernoulli.pdf](bernoulli.pdf) (50&#x00a0;pp.)
+* Mis apuntes, un poco más detallados de lo que hicimos en clase:
+  [bernoulli.pdf](bernoulli.pdf) (50&#x00a0;pp.)
 
-Algunos resultados están ilustrados con cálculos en el programa PARI/GP. El lector puede descargarlo de la página [http://pari.math.u-bordeaux.fr/](http://pari.math.u-bordeaux.fr/)
+* <a href="https://github.com/alexey-beshenov/notas-san-salvador/tree/master/bernoulli" class="git-link">El código fuente LaTeX</a>
+
+
+Algunos resultados están ilustrados con cálculos en el programa PARI/GP.
+El lector puede descargarlo de la página
+[http://pari.math.u-bordeaux.fr/](http://pari.math.u-bordeaux.fr/)
 
 Apuntes diarios de la clase:
 

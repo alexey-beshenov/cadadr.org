@@ -339,3 +339,9 @@ sobre la teoría de números y pedagogía.
 También agradezco a todos los participantes del curso, y sobre todo a Marvin
 Ferman Bell, José de Jesús García Ruvalcaba, William Eduardo Pena, Óscar Andrés
 Ramírez Ramírez, y Alexis Zamora.
+
+
+## Copyleft
+
+Esta obra está disponible bajo la
+[licencia CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).

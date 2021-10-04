@@ -363,3 +363,8 @@ eventualmente estará en mis apuntes. He aquí algunos libros en inglés.
 
 * John F. Humphreys, *A course in group theory*, Oxford University Press, 1996.
 
+
+## Copyleft
+
+Esta obra está disponible bajo la
+[licencia CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).

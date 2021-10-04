@@ -54,3 +54,9 @@ Lectura recomendada:<br>
 ### $K = \mathbb{Q}[x]/(x^5-x+1)$
 
 <video controls><source src="chebotarev/S5.mp4" type="video/mp4"></video>
+
+
+## Copyleft
+
+Esta obra está disponible bajo la
+[licencia CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).

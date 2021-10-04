@@ -92,3 +92,9 @@ esquema, así que se trata de una <em>invitación</em> a la teoría de esquemas.
 
 No duden en contactarme por cualquier pregunta sobre el curso:
 [cadadr@gmail.com](mailto:cadadr@gmail.com).
+
+
+## Copyleft
+
+Esta obra está disponible bajo la
+[licencia CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).

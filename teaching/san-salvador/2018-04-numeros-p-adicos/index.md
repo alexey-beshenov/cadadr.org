@@ -44,3 +44,9 @@ Estos son mis apuntes para una serie de charlas con una introducción a los núm
 ## Contacto
 
 No duden en contactarme por cualquier pregunta sobre el curso: [cadadr@gmail.com](mailto:cadadr@gmail.com).
+
+
+## Copyleft
+
+Esta obra está disponible bajo la
+[licencia CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).

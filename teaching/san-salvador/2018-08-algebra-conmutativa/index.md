@@ -66,3 +66,9 @@ principales son localización, dependencia integral, planitud y completación.
 * J.S. Milne, *[A Primer of Commutative Algebra](https://www.jmilne.org/math/)*.
 
 * <a href="http://alpha.math.uga.edu/~pete/integral2015.pdf" class="pdf-link">Apuntes de Pete L. Clark</a>.
+
+
+## Copyleft
+
+Esta obra está disponible bajo la
+[licencia CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).

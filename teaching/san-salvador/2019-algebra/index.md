@@ -370,3 +370,8 @@ inglés.
   American Mathematical Society, 2003.
 
 * [Apuntes de Paul Garrett](https://www-users.cse.umn.edu/~garrett/m/algebra/).
+
+## Copyleft
+
+Esta obra está disponible bajo la
+[licencia CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).

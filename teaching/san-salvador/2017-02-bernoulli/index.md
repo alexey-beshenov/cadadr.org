@@ -251,3 +251,9 @@ El material que vamos a cubrir está en los primeros capítulos del libro
 * Tsuneo Arakawa, Tomoyoshi Ibukiyama, Masanobu Kaneko,
   *Bernoulli numbers and zeta functions*,
   Springer Monographs in Mathematics, 2014.
+
+
+## Copyleft
+
+Esta obra está disponible bajo la
+[licencia CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).

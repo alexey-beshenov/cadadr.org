@@ -133,7 +133,7 @@ Nota respecto a las fechas: el «ciclo par» corresponde al semestre de otoño
   una exposición informal para el coloquio de San&#xa0;Salvador (03/03/2017)
 
 
-## Extra
+## Copyleft
 
-* **[Un breve diccionario de términos matemáticos](/dict/)**
-  (inglés–español–ruso)
+Esta obra está disponible bajo la
+[licencia CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).

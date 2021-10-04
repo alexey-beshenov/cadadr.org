@@ -314,3 +314,9 @@ Siegel-Klingen.
 
 * [YouTube](https://www.youtube.com/watch?v=4qDzURrZrXo)
 * <a href="valores-especiales-handout.pdf" class="pdf-link">diapositivas</a>
+
+
+## Copyleft
+
+Esta obra está disponible bajo la
+[licencia CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).

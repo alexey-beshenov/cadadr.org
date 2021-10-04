@@ -95,3 +95,9 @@ La primera sesión tendrá lugar el martes 8 de octubre.
 
 Alexey Beshenov <[cadadr@gmail.com](mailto:cadadr@gmail.com)><br>
 Oficina K315 en CIMAT
+
+
+## Copyleft
+
+Esta obra está disponible bajo la
+[licencia CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).

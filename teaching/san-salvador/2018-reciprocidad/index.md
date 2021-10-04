@@ -27,3 +27,9 @@ y la reciprocidad de Artin.
 
 * **<a href="reciprocidad-gauss-artin.pdf" class="pdf-link">Las leyes de reciprocidad de Gauss a Artin</a>**
   (julio de 2018)
+
+
+## Copyleft
+
+Esta obra está disponible bajo la
+[licencia CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).

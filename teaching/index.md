@@ -1,13 +1,12 @@
 ---
 title: Teaching
-published: 2020-08-29
+published: 2021-10-22
 ---
 
 All teaching materials linked below are in Spanish.
 
 
 ## Centro de Investigación en Matemáticas (CIMAT), Guanajuato (2019–2020)
-
 
 * Fall 2020: [Teoría de números algebraicos](cimat-tna/).<br>
   Introductory course of algebraic number theory.
@@ -16,6 +15,15 @@ All teaching materials linked below are in Spanish.
 * Fall 2019: [En torno de las funciones zeta aritméticas](cimat-zeta/).<br>
   A series of lectures about Hasse–Weil zeta functions, with some calculations
   and Dwork’s proof of rationality.
+
+
+## Some activities for school kids
+
+* Fall 2021: [Un repaso de geometría](https://alexey-beshenov.github.io/geometria-basica/).<br>
+  An interactive presentation/quiz with some theorems in geometry.
+
+* Fall 2021: [Teoría de números en ejercicios](https://cadadr.org/teoria-de-numeros-basica/).<br>
+  Some exercices in elementary number theory.
 
 
 ## Universidad de El&#xa0;Salvador (2016–2019)

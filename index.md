@@ -32,7 +32,7 @@ Here is some additional information:
 ## Work and education
 
 * In 2021–2022 I will be a visiting assistant professor
-  (ATER = *attaché temporaire d'enseignement et de recherche*)
+  (ATER = *attaché temporaire d’enseignement et de recherche*)
   at the [GAATI Mathematics Laboratory](https://gaati.org/),
   [University of French Polynesia](https://www.upf.pf/).
 
@@ -79,4 +79,4 @@ Email: [cadadr@gmail.com](mailto:cadadr@gmail.com).
 
 N.B. My former address
 [alexey.beshenov@cimat.mx](mailto:alexey.beshenov@cimat.mx)
-should be inactive soon, as I left CIMAT.
+doesn’t work anymore, as I am no longer associated with CIMAT.

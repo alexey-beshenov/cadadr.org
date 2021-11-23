@@ -1,6 +1,6 @@
 ---
 title: Talks (some notes and slides)
-published: 2021-08-11
+published: 2021-11-01
 ---
 
 Normally I prefer blackboard talks (or rather *prefered* in the pre-covid
@@ -52,7 +52,7 @@ For some of my Beamer source code, see
   St. Petersburg, May 13, 2021,
   [Seminar on $\mathbb{A}^1$-topology, motives and $K$-theory](https://indico.eimi.ru/category/12/)
   (virtual)<br>
-  [PDF slides](2021-05-13-st-petersburg-handout.pdf)
+  [PDF slides](2021-05-13-st-petersburg-handout.pdf), [YouTube video](https://www.youtube.com/watch?v=7iBmuv0HZ54)
 
 * **Cohomología Weil-étale de esquemas aritméticos**,
   Guanajuato, 15 de junio de 2021,
@@ -60,3 +60,8 @@ For some of my Beamer source code, see
   (virtual)<br>
   [Transparencias en PDF](2021-06-15-rsme-smm-handout.pdf),
   [charla en YouTube](https://www.youtube.com/watch?v=FYiq___H548)
+
+* **Valores zeta de esquemas unidimensionales**,
+  [54 Congreso Nacional de la Sociedad Matemática Mexicana 2021](https://www.smm.org.mx/congreso)
+  (virtual)<br>
+  [charla en YouTube](https://www.youtube.com/watch?v=MgPkrukBOW8)

@@ -21,12 +21,13 @@ I am also passionate about
 
 Here is some additional information:
       
-* <a href="/cv/alexey-beshenov-cv.pdf" class="pdf-link">Curriculum vitae</a>
-  (<a href="/cv/alexey-beshenov-cv-fr.pdf" class="pdf-link">CV en français</a>,
-  <a href="/cv/alexey-beshenov-cv-es.pdf" class="pdf-link">CV en español</a>)
+* Curriculum vitae in .pdf:
+  [english](/cv/alexey-beshenov-cv.pdf),
+  [français](/cv/alexey-beshenov-cv-fr.pdf),
+  [español](/cv/alexey-beshenov-cv-es.pdf).
 
-* <a href="/cv/alexey-beshenov-research-statement.pdf" class="pdf-link">Research statement</a>
-  regarding Weil-étale cohomology
+* [My research statement](/cv/alexey-beshenov-research-statement.pdf) (.pdf)
+  regarding Weil-étale cohomology.
 
 
 ## Work and education

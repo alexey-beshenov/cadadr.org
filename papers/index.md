@@ -16,9 +16,8 @@ and
 defended in Leiden on December 10, 2018.
 
 * Alexey Beshenov,
-  *<a href="/these/thesis-26-11-2018.pdf" class="pdf-link">Zeta-values
-  of arithmetic schemes at negative integers and Weil-étale
-  cohomology</a>*
+  **Zeta-values of arithmetic schemes at negative integers and Weil-étale cohomology**.<br>
+  151 pages. [PDF file](/these/thesis-26-11-2018.pdf)
 
 For a more streamlined exposition and more complete results
 (also with some corrections of minor misprints), see my preprints
@@ -34,8 +33,11 @@ listed below.
    [Margaret Bilu](https://pub.ist.ac.at/~mbilu/),
    [Yuri Bilu](https://www.math.u-bordeaux.fr/~ybilu/),
    [Purusottam Rath](https://www.cmi.ac.in/people/fac-profile.php?id=rath),
-   *<a href="/papers/EMS-Surv-rational-points-2015.pdf" class="pdf-link">Rational points on analytic varieties</a>*,
-   EMS Surv. Math. Sci. 2 (2015), no. 1, 109–130.
+   **Rational points on analytic varieties**,<br>
+   EMS Surv. Math. Sci. 2 (2015), no. 1, 109–130.<br>
+   [PDF file](/papers/EMS-Surv-rational-points-2015.pdf),
+   [DOI 10.4171/EMSS/10](https://doi.org/10.4171/EMSS/10),
+   [arXiv:1408.1441](https://arxiv.org/abs/1408.1441) (math.NT)
 
    > **Abstract**: This is a brief, informal and very elementary
    > introduction into the work of Pila and others about counting rational
@@ -43,11 +45,10 @@ listed below.
    > some of the most spectacular applications.
 
 2. Alexey Beshenov,
-   *<a href="/papers/beshenov-weil-etale-cohomology.pdf" class="pdf-link">Weil-étale cohomology
-   and duality for arithmetic schemes in negative weights</a>*,
-   December 2020 (revised November 2021),
-   preprint [arXiv:2012.11034](https://arxiv.org/abs/2012.11034),
-   submitted for publication.
+   **Weil-étale cohomology and duality for arithmetic schemes in negative weights**,<br>
+   December 2020 (revised November 2021), submitted for publication.<br>
+   [PDF file](/papers/beshenov-weil-etale-cohomology.pdf),
+   [arXiv:2012.11034](https://arxiv.org/abs/2012.11034) (math.AG, math.NT)
 
    > **Abstract**:
    > Flach and Morin constructed in
@@ -61,11 +62,10 @@ listed below.
 
 
 3. Alexey Beshenov,
-   *<a href="/papers/beshenov-weil-etale-zeta-values.pdf" class="pdf-link">Weil-étale cohomology
-   and zeta-values of arithmetic schemes at negative integers</a>*,
-   February 2021 (revised November 2021),
-   preprint [arXiv:2102.12114](https://arxiv.org/abs/2102.12114),
-   submitted for publication.
+   **Weil-étale cohomology and zeta-values of arithmetic schemes at negative integers**,<br>
+   February 2021 (revised November 2021), submitted for publication.<br>
+   [PDF file](/papers/beshenov-weil-etale-zeta-values.pdf),
+   [arXiv:2102.12114](https://arxiv.org/abs/2102.12114) (math.AG, math.NT)
 
    > **Abstract**:
    > Following the ideas of Flach and Morin
@@ -84,11 +84,10 @@ listed below.
    > assumptions on $X$.
 
 4. Alexey Beshenov,
-   *<a href="/papers/beshenov-weil-etale-1-dim.pdf" class="pdf-link">Zeta-values of
-   one-dimensional arithmetic schemes at strictly negative integers</a>*,
-   November 2021,
-   preprint [arXiv:2111.13398](https://arxiv.org/abs/2111.13398),
-   submitted for publication.
+   **Zeta-values of one-dimensional arithmetic schemes at strictly negative integers**,<br>
+   November 2021, submitted for publication.<br>
+   [PDF file](/papers/beshenov-weil-etale-1-dim.pdf),
+   [arXiv:2111.13398](https://arxiv.org/abs/2111.13398) (math.AG, math.NT)
 
    > **Abstract**:
    > Let $X$ be an arithmetic scheme (i.e., separated, of finite type over

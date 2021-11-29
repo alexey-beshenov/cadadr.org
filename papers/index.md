@@ -1,6 +1,6 @@
 ---
 title: Mathematical writing
-published: 2021-11-27
+published: 2021-11-29
 ---
 
 Here is my mathematical writing: PhD thesis, publications and preprints.
@@ -87,6 +87,7 @@ listed below.
    *<a href="/papers/beshenov-weil-etale-1-dim.pdf" class="pdf-link">Zeta-values of
    one-dimensional arithmetic schemes at strictly negative integers</a>*,
    November 2021,
+   preprint [arXiv:2111.13398](https://arxiv.org/abs/2111.13398),
    submitted for publication.
 
    > **Abstract**:

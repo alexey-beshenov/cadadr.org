@@ -75,12 +75,26 @@ ol li>p:last-child, ul li>p:last-child {
     margin: 0
 }
 
+/*
 ul {
     list-style-type: square;
     padding: 0 0 0 2em;
     margin: 0;
-}
+}*/
 
+main ul {
+    list-style-type: none;
+}
+main ul li:before {
+    content: '—';
+    position: absolute;
+    margin-left: -20px;
+}
+#internal-nav li:before {
+    content: '';
+    position: absolute;
+    margin: 0;
+}
 
 /* rulers */
 hr {
@@ -119,24 +133,12 @@ pre, div.hl { padding: 1rem;
 
 
 /* PDF links */
-.pdf-link::after, .git-link::after {
-    background: #aaa;
-    border-radius: 3px;
-    color: #fff;
-    font-size: 70%;
-    font-style: normal;
-    font-weight: 500;
-    margin: 0 0 0 2pt;
-    padding: 1pt 2pt;
-    vertical-align: super;
-}
-
 .pdf-link::after {
-    content: "PDF";
+    content: " (.pdf)";
 }
 
 .git-link::after {
-    content: "Git";
+    content: " (Git)";
 }
 
 
@@ -202,15 +204,10 @@ video {
 /* ------------------------------------------------------------ */
 
 body {
-    background-color: #8EC5FC;
-    background-image: linear-gradient(62deg, #8EC5FC 0%, #E0C3FC 100%);
+    background-color: #ece9e9;
     color: #000;
     margin: 0;
     padding: 0;
-}
-
-@media (min-width: 640px) {
-    body { padding: 1rem 0 0 0 }
 }
 
 /* ------------------------------------------------------------ */
@@ -238,7 +235,7 @@ main {
 }
 
 header {
-    background-color: rgba(0,0,0,0.1);
+    background-color: #e54;
     color: #fff;
 }
 
@@ -282,7 +279,7 @@ footer a:link, footer a:visited {
 nav {
     font-weight: 700;
     text-transform: uppercase;
-    opacity: 0.5;
+    opacity: 0.7;
 }
 
 nav>ul {
@@ -291,20 +288,19 @@ nav>ul {
     list-style-type: none;
     padding: 0.25rem 0;
     margin: 0;
-    color: #000;
 }
 
 #cadadr a:link, #cadadr a:visited, nav>ul a:link, nav>ul a:visited {
+    border-bottom: solid rgba(0,0,0,0.2) 2px;
     color: #000;
-    border-bottom: solid #999 2px
 }
 
 #cadadr a:hover, nav>ul a:hover { border-bottom: none }
 
 nav>ul li {
-    padding: 0 0.5em 0 0;
-    margin: 0;
     display: inline-block;
+    margin: 0;
+    padding: 0 0.5em 0 0;
 }
 nav>ul li:last-child {
     padding: 0
@@ -329,15 +325,6 @@ header>h1 {
     margin: 0;
     clear: both;
     padding: 4rem 0 1rem 0;
-}
-
-/* ------------------------------------------------------------ */
-
-/* curvy */
-
-@media (min-width: 640px) {
-    header { border-radius: 5px 5px 0 0 }
-    main { border-radius: 0 0 5px 5px }
 }
 
 /* ------------------------------------------------------------ */
@@ -400,7 +387,7 @@ main {
 }
 
 #internal-nav {
-        background: #b9d3dc;
+        background: #dca;
 }
 #internal-nav h2 { padding: 0 0.5rem }
 
@@ -455,8 +442,8 @@ main {
     }
 
     #internal-nav li a:hover {
-	background: #89b9ca;
-	/* border-radius: 3px; */
+	background: #f41;
+	color: #fff;
     }
 
     #internal-nav li>a, #internal-nav .current {
@@ -509,7 +496,6 @@ img.border {
 /* abstracts at /papers/ */
 
 ol blockquote {
-    font-size: 85%;
     padding: 0;
     margin: 0;
 }

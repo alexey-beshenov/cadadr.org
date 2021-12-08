@@ -7,9 +7,9 @@ Here is some stuff that didn’t fit the other categories.
 
 ## Some old lecture notes
 
-I typed these notes while I was a master student in Bordeaux. It goes without
-saying that all possible mistakes are entirely mine. If you spot some typo or
-inaccuracy, don’t hesitate to contact me.
+I typed these notes while I was a master student. It goes without saying that
+all possible mistakes are entirely mine. If you spot some typo or inaccuracy,
+don’t hesitate to contact me.
 
 * **p-adic numbers and Diophantine equations**,
   lectures by <a href="https://www.math.u-bordeaux.fr/~ybilu/">Yuri Bilu</a>,
@@ -23,6 +23,13 @@ inaccuracy, don’t hesitate to contact me.
   <a href="/bordeaux-master/pazuki-heights.pdf">PDF file</a>
   and
   <a href="https://github.com/alexey-beshenov/pazuki-heights" class="git-link">LaTeX source</a>
+
+* **Теория категорий**,
+  конспект лекций Н.А. Вавилова и А.Ю. Лузгарева,
+  Физико-математический клуб при ПОМИ и СПбГУ, 2011/12 г.<br>
+  <a href="/NOTES/categories/categories.pdf">PDF file</a>
+  and
+  <a href="/NOTES/categories/categories.tex">LaTeX source</a>
 
 
 ## Some extra stuff

@@ -17,15 +17,6 @@ All teaching materials linked below are in Spanish.
   and Dwork’s proof of rationality.
 
 
-## Some activities for school kids
-
-* Fall 2021: [Un repaso de geometría](https://alexey-beshenov.github.io/geometria-basica/).<br>
-  An interactive presentation/quiz with some theorems in geometry.
-
-* Fall 2021: [Teoría de números en ejercicios](https://cadadr.org/teoria-de-numeros-basica/).<br>
-  Some exercices in elementary number theory.
-
-
 ## Universidad de El&#xa0;Salvador (2016–2019)
 
 In 2016–2019 I collaborated with the
@@ -89,6 +80,15 @@ Here is a separate page where you can find my teaching materials prepared in
 San&#xa0;Salvador:
 
 * **[Mis cursos en la Universidad de El&#xa0;Salvador](san-salvador/)** (2016–2019)
+
+
+## Some activities for school kids
+
+* Fall 2021: [Un repaso de geometría](https://alexey-beshenov.github.io/geometria-basica/).<br>
+  An interactive presentation/quiz with some theorems in geometry.
+
+* Fall 2021: [Teoría de números en ejercicios](https://cadadr.org/teoria-de-numeros-basica/).<br>
+  Some exercices in elementary number theory.
 
 
 ## LaTeX code

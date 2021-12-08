@@ -304,7 +304,7 @@ puedo recomendar.
 * Z.I. Borevich and I.R. Shafarevich, *Number Theory*, Chapters 4, 5
 
 * Fernando Rodriguez Villegas, *Experimental Number Theory*
-  (para experimentos *en PARI/GP)
+  (para experimentos en PARI/GP)
 
 * David A. Cox, *Primes of the form $x^2 + ny^2$*
 

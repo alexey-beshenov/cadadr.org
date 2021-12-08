@@ -32,10 +32,11 @@ Here is some additional information:
 
 ## Work and education
 
-* In 2021–2022 I will be a visiting assistant professor
-  (ATER = *attaché temporaire d’enseignement et de recherche*)
-  at the [GAATI Mathematics Laboratory](https://gaati.org/),
-  [University of French Polynesia](https://www.upf.pf/).
+* In 2022 I am supposed to join the
+  [GAATI Mathematics Laboratory](https://gaati.org/)
+  at the [University of French Polynesia](https://www.upf.pf/) as
+  a visiting assistant professor
+  (ATER = *attaché temporaire d’enseignement et de recherche*).
 
 * I spent 2019–2020 at [Centro de Investigación en Matemáticas](https://www.cimat.mx/)
   (CIMAT), Guanajuato, Mexico, as a visiting researcher at the group of commutative
@@ -49,10 +50,13 @@ Here is some additional information:
 * I obtained my PhD from
   [University of Bordeaux](https://www.math.u-bordeaux.fr/) and
   [Leiden University](http://www.universiteitleiden.nl/en/science/mathematics/)
-  in 2018. I was supported by the [ALGANT](https://algant.eu/)-DOC scholarship of
-  the European Union.  My supervisor in Bordeaux was
-  [Baptiste Morin](https://www.math.u-bordeaux.fr/~bmorin/), and my supervisor
-  in Leiden was [Bas Edixhoven](http://www.math.leidenuniv.nl/~edix/).
+  in December 2018 with a thesis “[Zeta-values of arithmetic schemes at negative
+  integers and Weil-étale cohomology](/papers/)”.
+  I was supported by the [ALGANT](https://algant.eu/)-DOC scholarship
+  of the European Union. My supervisor in Bordeaux was
+  [Baptiste Morin](https://www.math.u-bordeaux.fr/~bmorin/),
+  and my supervisor in Leiden was
+  [Bas Edixhoven](http://www.math.leidenuniv.nl/~edix/).
 
 * I did my master studies in 2012–2014 in the
   [University of Milan](http://www.matematica.unimi.it/) and
@@ -60,8 +64,9 @@ Here is some additional information:
   under the [ALGANT program](https://algant.eu/).
   My advisor was Boas Erez.
 
-* Before that, I obtained my first M.Sc. in theoretical computer science in
-  St. Petersburg, Russia. My advisor was Dmitrii Pasechnik.
+* Before that, I obtained my first M.Sc. in theoretical computer science from
+  the University of the Russian Academy of Sciences, St. Petersburg, Russia.
+  My advisor was Dmitrii Pasechnik.
 
 * My BSc was in programming / computer engineering.
 
@@ -80,4 +85,4 @@ Email: [cadadr@gmail.com](mailto:cadadr@gmail.com).
 
 N.B. My former address
 [alexey.beshenov@cimat.mx](mailto:alexey.beshenov@cimat.mx)
-doesn’t work anymore, as I am no longer associated with CIMAT.
+doesn’t work anymore.

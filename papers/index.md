@@ -1,6 +1,6 @@
 ---
 title: Mathematical writing
-published: 2021-11-29
+published: 2021-12-06
 ---
 
 Here is my mathematical writing: PhD thesis, publications and preprints.
@@ -17,7 +17,9 @@ defended in Leiden on December 10, 2018.
 
 * Alexey Beshenov,
   **Zeta-values of arithmetic schemes at negative integers and Weil-étale cohomology**.<br>
-  151 pages. [PDF file](/these/thesis-26-11-2018.pdf)
+  151 pages.
+  [PDF file](/these/thesis-26-11-2018.pdf),
+  [LaTeX source](https://github.com/alexey-beshenov/weil-etale-thesis) (GitHub)
 
 For a more streamlined exposition and more complete results
 (also with some corrections of minor misprints), see my preprints
@@ -48,7 +50,8 @@ listed below.
    **Weil-étale cohomology and duality for arithmetic schemes in negative weights**,<br>
    December 2020 (revised November 2021), submitted for publication.<br>
    [PDF file](/papers/beshenov-weil-etale-cohomology.pdf),
-   [arXiv:2012.11034](https://arxiv.org/abs/2012.11034) (math.AG, math.NT)
+   [arXiv:2012.11034](https://arxiv.org/abs/2012.11034) (math.AG, math.NT),
+   [LaTeX source](https://github.com/alexey-beshenov/weil-etale) (GitHub)
 
    > **Abstract**:
    > Flach and Morin constructed in
@@ -65,7 +68,8 @@ listed below.
    **Weil-étale cohomology and zeta-values of arithmetic schemes at negative integers**,<br>
    February 2021 (revised November 2021), submitted for publication.<br>
    [PDF file](/papers/beshenov-weil-etale-zeta-values.pdf),
-   [arXiv:2102.12114](https://arxiv.org/abs/2102.12114) (math.AG, math.NT)
+   [arXiv:2102.12114](https://arxiv.org/abs/2102.12114) (math.AG, math.NT),
+   [LaTeX source](https://github.com/alexey-beshenov/weil-etale) (GitHub)
 
    > **Abstract**:
    > Following the ideas of Flach and Morin
@@ -87,7 +91,8 @@ listed below.
    **Zeta-values of one-dimensional arithmetic schemes at strictly negative integers**,<br>
    November 2021, submitted for publication.<br>
    [PDF file](/papers/beshenov-weil-etale-1-dim.pdf),
-   [arXiv:2111.13398](https://arxiv.org/abs/2111.13398) (math.AG, math.NT)
+   [arXiv:2111.13398](https://arxiv.org/abs/2111.13398) (math.AG, math.NT),
+   [LaTeX source](https://github.com/alexey-beshenov/weil-etale) (GitHub)
 
    > **Abstract**:
    > Let $X$ be an arithmetic scheme (i.e., separated, of finite type over

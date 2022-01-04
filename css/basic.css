@@ -16,7 +16,7 @@ kbd, pre, code {
 
 /* headers */
 
-h1 { font-size: 180% }
+h1 { font-size: 220% }
 h2 { font-size: 160% }
 h3 { font-size: 120% }
 
@@ -73,8 +73,14 @@ ol li>p:last-child, ul li>p:last-child {
     margin: 0
 }
 
+ol {
+    list-style-position: outside;
+    padding-left: 1.25em;
+}
+
 main ul {
     list-style-type: none;
+    padding: 0 0 0 1.25em;
 }
 main ul li:before {
     content: '—';
@@ -108,7 +114,7 @@ hr {
 
 
 /* highlighted blocks */
-pre, .hl { background: #ee9 }
+pre, .hl { background: #eee }
 
 pre, div.hl {
     padding: 1rem;
@@ -120,7 +126,6 @@ pre, div.hl {
 .copyleft {
     display: inline-block;
     transform: rotateY(180deg);
-    font-weight: bold;
 }
 
 
@@ -196,7 +201,7 @@ video {
 /* ------------------------------------------------------------ */
 
 body {
-    background-color: #dcd9d9;
+    background-color: #fff;
     color: #000;
     margin: 0;
     padding: 0;
@@ -227,8 +232,8 @@ main {
 }
 
 header {
-    background-color: #e54;
-    color: #fff;
+    background-color: #fff;
+    color: #000;
 }
 
 /* ------------------------------------------------------------ */
@@ -292,14 +297,15 @@ nav>ul {
 nav>ul li {
     display: inline-block;
     margin: 0;
-    padding: 0 0.5em 0 0;
+    padding: 0 0.25em;
 }
-nav>ul li:last-child {
+/* nav>ul li:last-child {
     padding: 0
-}
+} */
+nav>ul>li.current-page { background: #ccc }
 
 @media (max-width: 640px) {
-    h1 { font-size: 160% }
+    h1 { font-size: 180% }
     .only { padding-top: 2rem !important }
 }
 
@@ -313,10 +319,10 @@ header {
 }
 
 header>h1 {
-    padding: 0;
-    margin: 0;
+    margin: 0 0 1rem 0;
     clear: both;
-    padding: 4rem 0 1rem 0;
+    padding: 1rem 0 0.5rem 0;
+    border-bottom: solid #000 3px
 }
 
 /* ------------------------------------------------------------ */
@@ -387,7 +393,7 @@ main>p:first-child {
 }
 
 #internal-nav {
-        background: #dca;
+        background: #ddd
 }
 #internal-nav h2 { padding: 0 0.5rem }
 
@@ -442,7 +448,7 @@ main>p:first-child {
     }
 
     #internal-nav li a:hover {
-	background: #f41;
+	background: #666;
 	color: #fff;
     }
 
